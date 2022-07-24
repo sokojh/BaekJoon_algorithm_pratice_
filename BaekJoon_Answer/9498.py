@@ -7,6 +7,6 @@ elif(test>=80):
 elif(test>=70):
     print('C')
 elif(test>=60):
-    print('D+1')
+    print('D+2')
 else:
     print('F')
