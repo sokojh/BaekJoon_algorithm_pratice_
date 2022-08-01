@@ -14,4 +14,4 @@ for i in range(1, 10001):
 # 셀프 넘버들을 출력하기
 for j in range(1, 10001):
     if j not in nonSelfNum:
-        print(j)
+        print(j+1)
