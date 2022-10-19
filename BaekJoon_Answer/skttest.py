@@ -29,3 +29,4 @@ d = [2,3,4,5,6,1]
 sel_sort(d)
 
 print(d)
+print(d)
